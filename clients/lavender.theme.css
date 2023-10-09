@@ -15,6 +15,8 @@
 @import url("https://dev-cats.github.io/code-snippets/JetBrainsMono.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url("https://lavender-discord.github.io/IconsaxDiscord/theme.css");
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css);;
+/* Replaces all discord emojis with the google ones */
 
 .container-2nx-BQ {
   background-color: var(--background-secondary-alt) !important;
